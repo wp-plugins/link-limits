@@ -79,3 +79,7 @@ http://www.jamesmckay.net/2007/04/how-to-report-issues-with-wordpress-plugins/
 For more information, please visit the plugin's home page:
 
 http://www.jamesmckay.net/code/link-limits/
+
+The Mercurial repository and issue tracker for this plugin are at:
+
+http://bitbucket.org/jammycakes/link-limits/

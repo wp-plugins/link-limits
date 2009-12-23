@@ -3,7 +3,7 @@ Contributors: jammycakes
 Donate link: http://www.jamesmckay.net/code/link-limits/
 Tags: comments, comment, spam
 Requires at least: 2.0
-Tested up to: 2.2
+Tested up to: 2.8
 Stable tag: trunk
 
 Rejects comments that contain BBCode or too many hyperlinks.
